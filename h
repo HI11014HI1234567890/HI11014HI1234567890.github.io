@@ -1,5 +1,5 @@
-- $ git clone https://github.com/ski-ski-skibidi/ski-ski-skibidi.github.io
-- $ cd ski-ski-skibidi.github.io
+- $ git clone https://github.com/OhioOhioOhio/OhioOhioOhio.github.io
+- $ cd OhioOhioOhio.github.io
 - $ git add --all
 - $ git commit -m "Initial commit"
 - $ git push -u origin main
